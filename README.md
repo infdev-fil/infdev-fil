@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @infdev-fil
-- 👀 I’m interested in android dev and web dev 
-- 🌱 I’m currently learning java, css and javascript 
+👋 Hi, I’m @infdev-fil
+I'm also known as moxyom 
 
-Please contact me at infdevFil@protonmail.com if you want to work with me ! 
+I don't use my github too much, please visit my [gitlab](https://gitlab.moxyom.com/root/) instead
